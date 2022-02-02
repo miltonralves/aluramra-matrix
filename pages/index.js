@@ -60,8 +60,8 @@ function Titulo(props) {
 //export default HomePage
 
 export default function PaginaInicial() {
-    const username = 'miltonralvess';
-    
+    const username = 'miltonralves';
+
     return (
         <>
             <GlobalStyle />
