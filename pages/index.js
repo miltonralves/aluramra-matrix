@@ -61,8 +61,7 @@ function Titulo(props) {
 
 export default function PaginaInicial() {
     const username = 'miltonralvess';
-    const teste = 'teste';
-
+    
     return (
         <>
             <GlobalStyle />
